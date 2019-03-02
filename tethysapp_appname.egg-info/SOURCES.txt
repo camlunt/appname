@@ -1,0 +1,16 @@
+setup.py
+tethysapp/__init__.py
+tethysapp/appname/__init__.py
+tethysapp/appname/api.py
+tethysapp/appname/app.py
+tethysapp/appname/controllers.py
+tethysapp/appname/handoff.py
+tethysapp/appname/model.py
+tethysapp/appname/tests/__init__.py
+tethysapp/appname/tests/tests.py
+tethysapp_appname.egg-info/PKG-INFO
+tethysapp_appname.egg-info/SOURCES.txt
+tethysapp_appname.egg-info/dependency_links.txt
+tethysapp_appname.egg-info/namespace_packages.txt
+tethysapp_appname.egg-info/not-zip-safe
+tethysapp_appname.egg-info/top_level.txt
