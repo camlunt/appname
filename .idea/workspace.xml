@@ -13,13 +13,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tethysapp/appname/templates/appname/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+            <state relative-caret-position="105">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="e#745#788#0" expanded="true" />
+                <element signature="e#1055#1096#0" expanded="true" />
+                <element signature="e#1882#1923#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../appname</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +44,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="72" />
     <option name="y" value="27" />
-    <option name="width" value="1115" />
+    <option name="width" value="970" />
     <option name="height" value="1059" />
   </component>
   <component name="ProjectView">
@@ -127,9 +137,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="27" width="1115" height="1059" extended-state="0" />
+    <frame x="72" y="27" width="970" height="1059" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2166362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15911485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -151,8 +162,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tethysapp/appname/templates/appname/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#745#788#0" expanded="true" />
+            <element signature="e#1055#1096#0" expanded="true" />
+            <element signature="e#1882#1923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
